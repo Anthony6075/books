@@ -1,0 +1,3 @@
+classnamespace
+class namespace
+ccc
